@@ -42,13 +42,13 @@ Note:
 
 - **CSS** **file** **SHOULD NOT be renamed**
 
-[Download MDX]()
+[Download MDX](https://github.com/dolanskurd/AryanpourDictionary/blob/master/Aryanpour%20Dictionary/Aryanpour%20Dictionary.mdx)
 
 Download MDD (N/A)
 
-[Download CSS]()
+[Download CSS](https://github.com/dolanskurd/AryanpourDictionary/blob/master/Aryanpour%20Dictionary/AD.css)
 
-[Download Dictionary Icon]()
+[Download Dictionary Icon](https://github.com/dolanskurd/AryanpourDictionary/blob/master/Aryanpour%20Dictionary/Aryanpour%20Dictionary.png)
 
 
 
