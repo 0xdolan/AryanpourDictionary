@@ -1,0 +1,106 @@
+body{
+font-family: Verdana, Arial;
+line-height: 30px;
+}
+.entry{
+	font-family: Arial, Verdana;
+	color: #E3412F;
+	font-size: 22px;
+	font-weight: bold;
+	display: inline;
+}
+
+.def{
+	font-family: "Segoe UI", Verdana, Tahoma, Arial;
+	color: #242120;
+	font-size: 16px;
+	font-weight: bold;
+	direction: rtl;
+	text-align: right;
+}
+.def::before{
+	content: "\00a0■";
+	color: #DB1417;
+}
+.phonetic{
+	font-family: Verdana, Arial;
+	color: #019757;
+	font-size: 14px;
+	display: inline;
+}
+.Phonetic:before{
+	content: "/\00a0";
+	color: #242120;
+	font-size: 14px;
+}
+.Phonetic:after{
+	content: "\00a0/";
+	color: #242120;
+	font-size: 14px;
+}
+.pos{
+	color: #ffffff;
+	text-decoration:none;
+	font-style: normal;
+	font-size:15px;
+	padding: 1px 6px;
+	font-family: Verdana, Arial;
+	border-radius: 3px;
+	background-color: #607D8B;
+    text-transform: uppercase;
+	display: inline;
+}
+.phrase{
+	font-family: Verdana, Tahoma, Arial;
+	color: #E43B52;
+	font-size: 15px;
+	font-weight: bold;
+}
+.phrase::before{
+	content: "►";
+	color: #242120;
+}
+.phrasedef{
+	font-family: "Segoe UI", Verdana, Tahoma, Arial;
+	color: #194C7B;
+	font-size: 14px;
+	font-weight: bold;
+	direction: rtl;
+	text-align: right;
+}
+.enex{
+	font-family: Verdana, Tahoma, Arial;
+	color: #303D8B;
+	font-size: 15px;
+	float: left;
+	display: inline;
+}
+.faex{
+	font-family: "Segoe UI", Verdana, Tahoma, Arial;
+	color: #04513D;
+	font-size: 16px;
+	direction: rtl;
+	text-align: right;
+}
+.faentry{
+	font-family: "Segoe UI", Verdana, Tahoma;
+	font-size: 17px;
+	font-weight: bold;
+	color: #003B67;
+	direction: rtl;
+	text-align: right;
+}
+.endef{
+	font-family: "Segoe UI", Verdana, Tahoma, Arial;
+	color: #242120;
+	font-size: 18px;
+}
+table{
+	width: 100%;
+	line-height: 30px;
+	border-collapse: collapse;
+}
+
+tbody tr:nth-child(odd) {
+   background-color: #F5F5F5;
+}
