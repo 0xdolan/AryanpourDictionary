@@ -25,6 +25,8 @@ Download and install the required and recommended software / apps for using `MDi
   [**Download Mdict (Paid Version)**](https://itunes.apple.com/cn/app/mdict/id389083586?mt=8)
 
   [**Download Mdict (Free Version)**](https://itunes.apple.com/cn/app/mdict-free/id894362875)
+  
+  **YouTube:** [**How to do Live Translation on MDict?**](https://www.youtube.com/watch?v=nQPU7E4YTmE)
 
 - ### Android
 
