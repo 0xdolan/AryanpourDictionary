@@ -103,11 +103,3 @@ I hope you like this dictionary. Feel free to reach out if you have questions or
 ## License
 
 Aryanpour Dictionary is available under the **MIT license**.
-
-
-
-## Donate
-
-If you think it deserves, **Buy Me A Coffee**:
-* **[IDPay (آیدی پی)](https://idpay.ir/dolanskurd)**
-* **[iTunes Gift Cards via PayPal (Email-Delivery)](https://www.paypal.com/us/gifts/brands/itunes)** to my Apple ID: **dolanskurd@gmail.com**
